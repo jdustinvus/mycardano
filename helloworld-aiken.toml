@@ -1,0 +1,1 @@
+let must_say_hello = string.from_bytearray(redeemer.msg) == "Hello, World!"
