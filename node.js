@@ -13,7 +13,7 @@
         },
         "time": "2019-07-24T20:20:16Z",
         "epoch_number": 0,
-        "absolute_slot_number": 0,
+        "absolute_slot_number": 1,
         "slot_number": 0
     },
     "sync_progress": {
